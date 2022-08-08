@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align="left" src="https://raw.githubusercontent.com/mattaereal/mattaereal/assets/profile.png">
 
-<!--
-**mattaereal/mattaereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello stranger 👀
 
-Here are some ideas to get you started:
+(placeholder for short statement)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(placeholder for main content)
+
+(placeholder for a little comment or a quote)
+
+
+**~** [matta](twitter.com/mattaereal)
+<br />
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mattaereal.gpg)
+
+<a href="https://www.instagram.com/matias.aereal/">
+  <img align="left" alt="Matt's Instagram" width="22px" src="https://raw.githubusercontent.com/mattaereal/mattaereal/assets/instagram.png" />
+</a>
+<a href="https://twitter.com/mattaereal">
+  <img align="left" alt="Matt's Twitter" width="22px" src="https://raw.githubusercontent.com/mattaereal/mattaereal/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aereal">
+  <img align="left" alt="Matt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/mattaereal/mattaereal/assets/linkedin.svg" />
+</a>
