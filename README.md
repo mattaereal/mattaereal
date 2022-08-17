@@ -18,7 +18,7 @@ I'm actually a mentor on some local communities, and willing to help anybody try
 _Do we, as a society, want the comfort and convenience of increasingly technologic, invisible digital integration enough to pay for those benefits with the liberties that must be given up to be protected from the downsides of that integration? - *Dan Geer*_
 
 
-**~** [matta](twitter.com/mattaereal)
+**~** [matta](https://twitter.com/mattaereal)
 <br />
 [![pgp](https://img.shields.io/badge/pgp-0x54DDCEFA7AE8FC12-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mattaereal.gpg)
 <a href="https://www.instagram.com/matias.aereal/">
