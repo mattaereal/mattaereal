@@ -2,21 +2,19 @@
 
 ### Hello stranger 👀
 
-Hey, I'm Matt, and this profile is a work in progress, but thanks for stopping by.
+Hey, I'm matt, also known as matta, thanks for stopping by!
 
-I'm currently on a break from work, studying blockchain development and security. I'm not open to working yet but will be at the end of the year.
+I'm currently a proud adventurer of @theredguild, doing quests in the Ethereum Ecosystem, [hop on by](theredguild.org)!
 
 I have before worked in the infosec industry, doing many things. I have been exploiting my soft skills in roles related to management, coaching, and mentoring for the past three years.
 
 I am a mentor in some local communities, and always willing to help anybody trying to start a career in information security.
 
-I started to generate content on my blog, here there are some of the latest articles:
+I started to generate content on my blog, and on the guild's blog as well. Here there are some of my favorite articles:
 - [What's a computer hacker? and other popular questions](https://medium.com/@mattaereal/whats-a-computer-hacker-and-other-popular-questions-c147b9a50f58)
 - [A journey into smart contract security](https://medium.com/@mattaereal/a-journey-into-smart-contract-security-3115ff480f28)
-- [A-MAZE-X CTF Walkthrough series](https://medium.com/@mattaereal/a-maze-x-ctf-walkthrough-part-0-d73338e6809)
-- [Solving "more-evm-puzzles" differently series](https://medium.com/@mattaereal/solving-more-evm-puzzles-differently-part-i-170f2516b88d)
-- [Yet another evm puzzle](https://medium.com/@mattaereal/yet-another-evm-puzzle-787c83b67a75)
-- [Jackpot or Honeypot? A quick lesson on solc's uint and function selectors](https://medium.com/@mattaereal/jackpot-or-honeypot-a-quick-lesson-on-solcs-uint-and-function-selectors-cc1ea7f6afce)
+- [How to take over any DNS domain on ENS](https://blog.theredguild.org/how-to-almost-take-over-any-dns-domain-on-ens/)
+- [The state of The Red Guild](https://blog.theredguild.org/the-state-of-the-red-guild-1/)
 
 _Do we, as a society, want the comfort and convenience of increasingly technologic, invisible digital integration enough to pay for those benefits with the liberties that must be given up to be protected from the downsides of that integration? - *Dan Geer*_
 
